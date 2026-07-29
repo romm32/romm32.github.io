@@ -7,9 +7,29 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.56.1",
-    "@shopify/prettier-plugin-liquid": "^1.10.0",
+    "@shopify/prettier-plugin-liquid": "1.11.0",
     "pixelmatch": "^7.1.0",
     "pngjs": "^7.0.0",
-    "prettier": "^3.8.0"
-  }
+    "prettier": "3.9.6"
+  },
+  "name": "romm32.github.io",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "purgecss.config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romm32/romm32.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/romm32/romm32.github.io/issues"
+  },
+  "homepage": "https://github.com/romm32/romm32.github.io#readme"
 }
