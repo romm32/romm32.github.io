@@ -6,13 +6,13 @@ inline: false
 related_posts: false
 ---
 
-In October, 2025, I travelled to Pacific Grove to present our work "Wireless Link Scheduling with State-Augmented Graph Neural Networks" at the ASILOMAR conference. The event took place at the state park of the same name, at the Asilomar State Beach. The grounds offer enable experiencing nature as one walks from one talk to another, or in between poster sessions. It is probably the most beautiful and peaceful setting for a conference to exist.
+In October 2025, I traveled to Pacific Grove to present our work, "Wireless Link Scheduling with State-Augmented Graph Neural Networks," at the Asilomar Conference on Signals, Systems, and Computers. The event took place right in Asilomar State Beach, where the grounds let you take in the coast and nature as you walk between talks and poster sessions—easily one of the most beautiful and peaceful settings for an academic conference.
 
-The conference was full of great researchers and students with whom I shared multiple chats. As my first experience in a conference during my Ph.D., I struggled to decide which session to attend when multiple were happening simultaneously. It also took me a few days to find out that poster sessions are really useful for me, as I can focus better when having a conversation with the presenter of the work. I met many students that work on similar lines of work and with whom I expect to share more conferences and perhaps collaborations in the future.
+It was my very first conference as a Ph.D. student, and I was fortunate to meet researchers and fellow students. While I initially struggled to choose between overlapping sessions, I quickly realized how much I enjoyed poster sessions. Having one-on-one conversations with presenters made it much easier for me to follow their explanations. I met many students working on similar topics, and I hope to cross paths with them at future conferences—and maybe even collaborate down the line!
 
 ---
 
-Here are some pictures from the trip! I started with Lolo and Hamed visiting San Francisco before the conference. Then we went on a roadtrip South to Pacific Grove, where we stayed for four days. After the sessions were done, one day we made a short trip to Carmel By The Sea, a small town nearby.
+Here are a few highlights from the trip! It started with Lolo and Hamed exploring San Francisco before heading south on a road trip to Pacific Grove. After four days of sessions, we also squeezed in a quick visit to the nearby town of Carmel-by-the-Sea.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
