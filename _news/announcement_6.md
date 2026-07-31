@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I travelled to Pacific Grove to present a poster at ASILOMAR 2026
+title: I travelled to Pacific Grove to present a poster at ASILOMAR 2025
 date: 2025-10-26 16:11:00-0400
 inline: false
 related_posts: false
@@ -47,13 +47,10 @@ Here are a few highlights from the trip! It started with Lolo and Hamed explorin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/asilomar/0275.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/asilomar/IMG_0275.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Our poster presentation!
 </div>
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 
