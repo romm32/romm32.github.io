@@ -41,5 +41,3 @@ Here are a few pictures from the trip! Barcelona is a vibrant, beautiful city, a
 <div class="caption">
     Poster session and classic conference picture with Nacho.
 </div>
-
-

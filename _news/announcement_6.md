@@ -44,7 +44,6 @@ Here are a few highlights from the trip! It started with Lolo and Hamed explorin
     On the left, the view from one of the stops of our roadtrip. Middle, Lolo and I photographed by Hamed in Santa Cruz. Right, the sunset from the ASILOMAR grounds.
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/asilomar/IMG_0275.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -53,4 +52,3 @@ Here are a few highlights from the trip! It started with Lolo and Hamed explorin
 <div class="caption">
     Our poster presentation!
 </div>
-
